@@ -17,3 +17,8 @@ int main()
   }
   return 0;
 }
+// 
+// n-i+1 can be made the formula because if toh fir i loop ko 1 to 5 times chalne ne ki
+// 
+// 
+// 
